@@ -2,6 +2,8 @@
 
 This project is a machine learning application that performs **sentiment analysis** on IMDB movie reviews. It classifies reviews as either **positive** or **negative** using a trained **Logistic Regression** model and provides an interactive interface built with **Streamlit**.
 
+To see the final UI of this project in StreamLit community cloud- [Click Here](https://imdb-review-fzmr9ukjlpnd34kcyb3aj2.streamlit.app/)
+
 ---
 
 ## 🚀 Features
